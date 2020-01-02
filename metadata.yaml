@@ -1,5 +1,8 @@
 _repo: Le-Canape-couleur-de-feu-par-M-de-_60918
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60918-h/images/cover.jpg
 creator:
   author:
     agent_name: Fougeret de Monbron, Louis Charles
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32582
     wikipedia: https://fr.wikipedia.org/wiki/Louis-Charles_Fougeret_de_Monbron
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60918#Le-Canape-couleur-de-feu-par-M-de-
 gutenberg_bookshelf:
 - FR Séduction et libertinage
 - FR Nouveautés
